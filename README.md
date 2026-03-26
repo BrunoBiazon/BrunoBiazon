@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQFLuerb4wJAyQ/profile-displayphoto-shrink_800_800/B4EZTJ2OBsG0Ac-/0/1738553221849?e=1775692800&v=beta&t=ARVBo3zvhj5SPijhmSKPEfqeEBNg7-ShsPADVJKsepQ"  />
+  <a href="https://github.com/BrunoBiazon">
+    <img height="200" src="https://github.com/BrunoBiazon.png" />
+  </a>
 </div>
 
 ###
