@@ -24,7 +24,7 @@
 <p align="left">
   Cursando o 5º período de <b>Análise e Desenvolvimento de Sistemas na UTFPR</b>. <br>
   Desenvolvedor com foco em <b>Back-end</b> e experiência na criação de aplicações <b>Fullstack</b>. <br>
-  Atualmente, busco minha primeira oportunidade no mercado para aplicar meus conhecimentos em arquitetura de sistemas e banco de dados.
+  Atualmente, busco minha primeira oportunidade de estágio.
 </p>
 
 ### 🚀 O que estou fazendo no momento:
