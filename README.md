@@ -28,9 +28,13 @@
 </p>
 
 ### 🚀 O que estou fazendo no momento:
-- 🔭 Atualmente trabalhando em um **E-commerce de Suplementos** com Django.
-- 🎮 Desenvolvendo um **Space Shooter Arcade** na Unity.
-- 📚 Estudando Spring Boot e me apronfundando em DevOps.
+- 🔭 Atualmente desenvolvemnto uma API Escolar em Spring Boot e MySQL.
+- 📚 Estudando:
+  - Angular com TypeScript
+  - Spring Boot
+  - MySQL com flyway migrate, voltado para Spring Boot
+  - Arquiteturas de Software: Principalmente -> Monolito Modular, Clean Architecture
+  - Gestão de projetos baseado em metódologias agéis: Framework Lean Inception
 <div>
 </b> <br>
 
