@@ -24,7 +24,7 @@
 <p align="left">
   Cursando o 5º período de <b>Análise e Desenvolvimento de Sistemas na UTFPR</b>. <br>
   Desenvolvedor com foco em <b>Back-end</b> e experiência na criação de aplicações <b>Fullstack</b>. <br>
-  Atualmente, busco minha primeira oportunidade de estágio.
+  Atualmente, atuo como estagiário de desenvolvimento na Fomenta Vale.
 </p>
 
 ### 🚀 O que estou fazendo no momento:
